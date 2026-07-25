@@ -365,9 +365,9 @@ function PlannerPage({ onOpenWelcome }: PlannerPageProps) {
                 {template.availableVariants.map((option) => (
                   <option key={option} value={option}>
                     {template.curriculum === "double-degree"
-                      ? option === "A"
+                      ? option === "B"
                         ? "Pre-Fall 2024"
-                        : option === "B"
+                        : option === "A"
                             ? "Post-Fall 2024"
                             : `Option ${option}`
                           : `Option ${option}`}
