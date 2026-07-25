@@ -173,7 +173,7 @@
     "supportsVariants": true,
     "availableVariants": ["A", "B"],
     "termsByVariant": {
-    "A": [
+    "B": [
         { "id": "nc_dd_y1_f", "label": "Year 1 - Fall", "courseIds": ["chem120", ["math150", "math151"], "cmpt130", "phys140", "mse100", "econ105"] },
         { "id": "nc_dd_y1_s", "label": "Year 1 - Spring", "courseIds": ["math232", "math152", "phys141", ["mse110", "mse112"], "mse102", "mse101w"] },
         { "id": "nc_dd_y1_u", "label": "Year 1 - Summer", "courseIds": [] },
@@ -191,7 +191,7 @@
         { "id": "nc_dd_y5_u", "label": "Year 5 - Summer", "courseIds": ["mse411", "busElec3", "techElec3", "techElec4"] }
     ],
 
-    "B": [
+    "A": [
         { "id": "nc_dd_y1_f", "label": "Year 1 - Fall", "courseIds": ["chem120", ["math150", "math151"], "cmpt130", "mse103", ["econ105", "econ115"]] },
         { "id": "nc_dd_y1_s", "label": "Year 1 - Spring", "courseIds": ["math232", "math152", "phys141", "mse152", "mse102"] },
         { "id": "nc_dd_y1_u", "label": "Year 1 - Summer", "courseIds": ["math251", "mse101w", "mse112", ["econ103", "econ113"]] },
